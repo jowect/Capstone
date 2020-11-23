@@ -53,6 +53,7 @@ At least two tests of RBAC for each role
 -   README.md
 -   requirements.txt
 -   setup.sh
+-
 ----migrations
 -   -   alembic.ini
 -   -   env.py
@@ -67,8 +68,6 @@ At least two tests of RBAC for each role
 -   -  CapstoneMovieLocal.postman_test_run.json
 -   -  JWTs.txt
 -   -  test_app.py
--   -
--
 
 ## Installing Dependencies
 --------------------------
