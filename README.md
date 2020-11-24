@@ -60,7 +60,7 @@ At least two tests of RBAC for each role
 -   -   README
 -   -   script.py.mako
 -   -
--   -   versions
+        versions
 -   -   -   3195e62146f5_.py
 
     Test
