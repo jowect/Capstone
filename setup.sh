@@ -14,7 +14,7 @@ host = 'localhost:5432'
 database_path = "postgres://{}:{}@{}/{}".format(user_name, user_password, host, database_name)
 
 export AUTH0_DOMAIN = 'fsndjw.eu.auth0.com'
-export ALGORITHMS = ['RS256']
+export ALGORITHMS = 'RS256'
 export API_AUDIENCE = 'movie' 
 # for local database use database_path with your local database URI
 # export DATABASE_URL = database_path
